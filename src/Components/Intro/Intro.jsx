@@ -7,17 +7,14 @@ export const Intro = () => {
       <div id="Home">
         <div id="Home_1">
           <h1>Intro</h1>
-          <p>Hi there.</p>
           <p>
-            I am a <p1>Programmer</p1> and i love it.
+            Hi there.
+            <br /> I am a <p id="bold">Programmer</p> and i love it.
+            <br /> My name is
+            <p id="bold">Sayooj Manikandan.</p>
+            Im currently a<p id="bold">B-tech cse student.</p>
+            This is a place to showcase my projects.
           </p>
-          <p>
-            My name is <p1>Sayooj Manikandan</p1>.
-          </p>
-          <p>
-            Im currently a <p1>B-tech cse student</p1>.
-          </p>
-          <p>This is a place to showcase my projects.</p>
         </div>
       </div>
     </>
