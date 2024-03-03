@@ -1,21 +1,20 @@
 nav {
-    position: fixed;
-    top: 0px;
-    background-color: #4067F3;
-    height: 50px;
-    width: 100%;
-    margin: 0; /* Ensure no margin is added */
-    padding: 0; /* Ensure no padding is added */
+  position: fixed;
+  top: 0px;
+  background-color: #4067F3;
+  height: 50px;
+  width: 100%;
+  margin: 0; /* Ensure no margin is added */
+  padding: 0; /* Ensure no padding is added */
+  z-index: 1;
 }
-  
-  nav a {
-    /*font-family: 'Kalam';*/
-    font-size: 22px;
-    padding: 14px;
-    font-style: bold italic;
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-  }
+nav a {
+  font-size: 22px;
+  padding: 14px;
+  font-style: bold italic;
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}

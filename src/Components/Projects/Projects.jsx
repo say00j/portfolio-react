@@ -21,7 +21,9 @@ export const Projects = () => {
           <div className="Box" id="Projects_1_2">
             <img src="src\Assets\SCMA.png" />
             <div id="Projects_1_3">
-              <a href="http://www.google.com/">Click to see source code</a>
+              <a href="https://youtu.be/dQw4w9WgXcQ?si=yUDlPOFwsT48rrWE">
+                Click to see source code
+              </a>
             </div>
           </div>
         </div>
