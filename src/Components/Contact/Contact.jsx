@@ -12,7 +12,7 @@ export const Contact = () => {
         <br />
         Instagram id: say_j_man
       </p>
-      <p1>Have a nice day!</p1>
+      <p id="wish">Have a nice day!</p>
     </div>
   );
 };
