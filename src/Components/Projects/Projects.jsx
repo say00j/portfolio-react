@@ -1,5 +1,6 @@
 import React from "react";
 import "./Projects.css";
+import image from "./SCMA.png";
 
 export const Projects = () => {
   return (
@@ -19,7 +20,7 @@ export const Projects = () => {
             </p>
           </div>
           <div className="Box" id="Projects_1_2">
-            <img src="src\Assets\SCMA.png" />
+            <img src={image} />
             <div id="Projects_1_3">
               <a href="https://youtu.be/dQw4w9WgXcQ?si=yUDlPOFwsT48rrWE">
                 Click to see source code
